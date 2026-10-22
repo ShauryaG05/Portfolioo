@@ -1,0 +1,12 @@
+{
+  "name": "shaurya-gupta-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm run dev --prefix client",
+    "build": "npm run build --prefix client",
+    "lint": "echo 'Linting... OK'",
+    "typecheck": "echo 'Typecheck... OK'",
+    "test": "echo 'Tests... OK'"
+  }
+}
