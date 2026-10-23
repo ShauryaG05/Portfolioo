@@ -72,7 +72,7 @@ export function PortfolioPage() {
               </section>
             ))}
           </div>
-          <p className="technology-note">Names and groupings are presented as supplied.</p>
+          <p className="technology-note">All projects and professional deliverables are based on the technologies mentioned above.</p>
         </section>
 
         <section className="experience-section page-gutter" id="experience" aria-labelledby="experience-title">
